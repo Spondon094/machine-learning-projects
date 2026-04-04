@@ -23,4 +23,4 @@ N26 bank users from transaction history.
 
 ## Roadmap
 - [ ] N26 MLOps upgrade — FastAPI + Docker + MLflow
-- [ ] More projects coming soon
+- [ ] More projects counting
