@@ -79,13 +79,20 @@ total expenses in a future 2-month window.
 ---
 
 ## 🗺️ Roadmap
+
 - [x] EDA & feature engineering
 - [x] Model training & evaluation
 - [x] Feature importance analysis
-- [ ] FastAPI prediction endpoint
-- [ ] Docker containerisation
-- [ ] MLflow experiment tracking
-- [ ] AWS deployment
+- [ ] Feature ablation study
+- [ ] Hyperparameter tuning
+- [ ] Rolling prediction windows
 
-🚀 Production service: [n26-ml-service]
-(https://github.com/Spondon094/n26-ml-service)
+---
+
+## 🚀 Production Service
+
+The trained models from this project are served via a 
+FastAPI + Docker microservice:
+
+👉 [n26-ml-service](https://github.com/Spondon094/n26-ml-service)
+— REST API · Docker · MLflow · AWS deployment
