@@ -27,5 +27,5 @@ production-oriented design.
 
 ## 🗺️ Roadmap
 - [x] N26 Expenses & Income Prediction
-- [ ] N26 MLOps upgrade — FastAPI + Docker + MLflow
-- [ ] More projects coming soon
+- [x] N26 MLOps upgrade — FastAPI + Docker + MLflow
+- [ ] More projects on Pipeline
